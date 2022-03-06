@@ -1,4 +1,4 @@
 # SUS-joke
-Program to play a little joke on a person
-# Features
-This script creates folders and inside it files which have written "SUS", the amount can be whatever, only in the variable "max" you assign the value you want.
+Script para jugar una broma y un compa
+# Caracteristicas
+El script crea folders, dentro de ellos crear archivos de texto con la palabra "SUS", tambien descarga imagenes de google y abre el navegador para reproducir videos youtube
